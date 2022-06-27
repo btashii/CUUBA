@@ -14,3 +14,5 @@ Through its Arduino Nano computer and modular chassis design, the CUUBA can be f
 <p align="center">
   <img src="https://user-images.githubusercontent.com/66987198/175842595-2de748a4-c395-4c62-ad2f-a9abbed6bb71.jpg" />
 </p>
+
+<h4 align = "center">CUUBA Video in Action: https://www.linkedin.com/feed/update/urn:li:activity:6769847619721146368/</h4>
