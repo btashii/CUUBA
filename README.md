@@ -8,7 +8,7 @@ Through its Arduino Nano computer and modular chassis design, the CUUBA can be f
 
 <h1 align = "center">CUUBA Schematics</h1>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/66987198/175842574-71bc4795-062a-4ba3-835a-b975873476c7.jpg" />
+  <img src="https://user-images.githubusercontent.com/66987198/184160397-9ac1d949-c69a-4068-a2c3-b87663b18e06.jpg" />
 </p>
 
 <p align="center">
